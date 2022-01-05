@@ -1,1 +1,0 @@
-# kaggle-digit-recognizer-challenge
